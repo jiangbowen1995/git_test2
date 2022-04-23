@@ -3,4 +3,4 @@
 use Mylib\Component\Test;
 
 $t = new Test();
-$t->damon();
+$t->damon4545();
