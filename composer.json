@@ -1,0 +1,19 @@
+{
+    "name": "damon/damontest",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JBW",
+            "email": "1751856199@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"Mylib\\Component\\":"src"
+		}
+	}
+}
